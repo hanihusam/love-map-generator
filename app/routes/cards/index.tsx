@@ -1,4 +1,4 @@
-export default function JokesIndexRoute() {
+export default function CardsIndexRoute() {
   return (
     <div>
       <p>Here's a random joke:</p>
